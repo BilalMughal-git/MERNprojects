@@ -1,0 +1,3 @@
+hello BILAL you added me through writefile method
+
+ here you use append to add data in the file
